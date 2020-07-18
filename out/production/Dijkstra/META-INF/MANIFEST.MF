@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: me.mengxy.sdn.Boot
+Class-Path: gson-2.8.0.jar com.fasterxml.jackson.annotations.jar com.fas
+ terxml.jackson.databind.jar com.fasterxml.jackson.core.jar
+
